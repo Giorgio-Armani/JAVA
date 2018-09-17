@@ -1,0 +1,22 @@
+
+public class ExoWhileBoucle {
+
+	public static void main(String[] args) {
+		
+		int a = 1 ;
+		// a = a + 1 ;
+		while(a <= 100) {
+			System.out.println("La variable a = " + a);
+		
+			a++;
+		}
+		
+		
+		
+		
+		
+	
+
+	}
+
+}

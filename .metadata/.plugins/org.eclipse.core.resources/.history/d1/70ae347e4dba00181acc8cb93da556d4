@@ -1,0 +1,27 @@
+
+public class ExoTableauExercise {
+
+	public static void main(String[] args) {
+		 /*
+		  * Afficher et parcourir les elements du tableau
+		  */
+		String cours [] = {"Java" , "Html", "CSS", "Javascript", "PHP", "C++","NodeJS", "NET", "Typescript", "Golang", "Scala", "Kotlin"};
+		for (int i = 0; i < cours.length; i++) {
+			System.out.println("Matière : " + cours[i]);
+			System.out.println("Matière : " + cours[i] + ",");
+ 	
+ 			
+        }
+        /*
+         * Afficher les elements sur la meme ligne separés par ","
+         */
+		for (int i = 0; i < cours.length; i++) {
+			System.out.print(cours[i] + ", " ); 	
+			
+		}
+		for (int i = 0; i < cours.length; i++) {
+			System.out.println("Matière : " + cours = 10[i]);
+		} 
+	}
+
+}

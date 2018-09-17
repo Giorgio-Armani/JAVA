@@ -1,0 +1,23 @@
+public class IfCondition {
+
+	public static void main(String[] args) {
+		
+		// = : Affectation
+		// == : comparaison
+		  
+		int prix = 10;
+		
+		if(prix==10) {
+			System.out.println("Le prix = 10"); 
+		}
+		
+		int tva = 20;
+		
+		if(tva == 20) {
+			System.out.println("La tva = "+ tva);
+		}
+			
+
+	}
+
+}

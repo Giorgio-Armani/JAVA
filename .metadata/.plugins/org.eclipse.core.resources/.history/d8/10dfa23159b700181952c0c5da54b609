@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class ExoLectureClavier {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Debut");
+		int a = sc.nextInt();
+		System.out.println("vous avez saisi : " + true);
+		int b = sc.nextInt();
+		if(a>=b) {
+			System.out.println(a + " >= " + b );
+		}else {
+			System.out.println(a + " < " + b);
+		}
+	}
+
+}

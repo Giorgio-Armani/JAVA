@@ -1,0 +1,69 @@
+public class IfElseIfEslseCondition {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * LA condition IF ELSE IF ELSE
+		 * if(condition1) {
+		 *        traitement1;
+		 * } else if (condition2){
+		 *        traitement2;
+		 * }else if(conditionN){
+		 *        traitementN;
+		 * }else{
+		 *      {traitement dans le cas ou aucune condition n'est valide);
+		 * }                          
+		 */
+		//declaration
+		int note;
+		//affectation
+		note = 10;
+		
+		if(note > 15) {
+			System.out.println("La note est >= 15");
+		}else if(note > 10) {
+			System.out.println("La note est > 10");
+		}else if(note== 10) {
+			System.out.println("La note est = 10");
+		}else {
+		System.out.println("La note est < 10");
+		}
+		System.out.println("Ici c'est la fin du programme");
+
+	}
+
+	
+
+	double note = 15 ;
+	int coef = 3 ;
+	double resultat = note * coef ;
+	if(resultat >= 50) {
+		System.out.println("resultat = " + resultat);
+	}
+	 if(resultat < 50 ) {
+		 System.out.println("resultat insuffisant");
+	 }
+	 
+	 
+	 int noteJava = 14 ;
+	 int noteHtml = 13 ;
+	 int noteJavascript = 9.5f ;
+	 float noteCss = 8.5f ;
+	 float moyenne = (noteJava + noteJavascript + noteHtml + noteCss)/4;
+	 if (moyenne >= 10 ) {
+		 System.out.println("Vous avez eu une bonne note");
+	 }
+	 if(moyenne < 10) {
+		 System.out.println("Vous avez eu une mauvaise note");
+	 }
+	
+
+	
+	
+}
+
+
+
+
+
+	

@@ -1,0 +1,18 @@
+
+public class ExoTableauExercise {
+
+	public static void main(String[] args) {
+		
+		String cours [] = {"Java" , "Html", "CSS", "Javascript", "PHP", "C++","NodeJS", "NET", "Typescript", "Golang", "Scala", "Kotlin"};
+		for (int i = 0; i < cours.length; i++) {
+ 			System.out.println("Matière : " + cours[i]); 	
+ 			
+        }
+
+		for (int i = 0; i < cours.length; i++) {
+			System.out.print(cours[i] + ", " ); 	
+			
+		}
+	}
+
+}

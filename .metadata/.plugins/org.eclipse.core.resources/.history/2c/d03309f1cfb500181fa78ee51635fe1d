@@ -1,0 +1,14 @@
+public class ExoConditionIfEse {
+
+	public static void main(String[] args) {
+		
+		String chaine = "connection";
+		if(chaine =="connection" ) {
+			System.out.println("Vous etes connecte");
+		}else {
+			System.out.println("Vous n'etes pas connecte");
+		}
+
+	}
+
+}

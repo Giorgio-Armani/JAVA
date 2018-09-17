@@ -1,0 +1,17 @@
+public class ExoVariables {
+
+	public static void main(String[] args) {
+		
+        //Declaration et affectation
+		// Type nomVariable = valeur ;
+		int maCoef = 3 ;
+		float monNote = 14.5f;
+		float resultat = maCoef * monNote ;
+		System.out.println("resultat = " + resultat);
+		
+		
+		
+		
+	}
+
+}
