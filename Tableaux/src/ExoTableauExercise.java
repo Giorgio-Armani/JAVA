@@ -1,4 +1,4 @@
-
+ 
 public class ExoTableauExercise {
 
 	public static void main(String[] args) {
@@ -26,6 +26,8 @@ public class ExoTableauExercise {
 		for (int i = 0; i < cours.length; i++) {
 			System.out.print("Matière : " + cours[i] + "=" + "10" + ", ");
 		} 
+		
+		
 		
 		
 		

@@ -52,6 +52,23 @@ public class Tableau1D {
 		System.out.println("resultat double = " + resultatdiv);	
 	}
 	System.out.println("resultat final = " + resultatdiv);
-   
+	
+	// Les indices
+	String cours [] = {"Java" , "Html", "CSS", "Javascript", "PHP", "C++","NodeJS", "NET", "Typescript", "Golang", "Scala", "Kotlin"};
+	
+	System.out.println();
+	for (int i = 0; i < cours.length; i++) {
+		System.out.println(cours [i]+ " = 10.");
+	}
+	
+	
+	for (int i = 0; i < cours.length; i++) {
+		if(cours[i].equals("PHP")) {
+			System.out.println("PHP se trouve à l'indince " + i);
+		}else {
+			System.out.println("A l'indice " + i + " se trouve la valeur : " + cours[i]);
+		}
+		
+	}
 }
 }
