@@ -4,4 +4,16 @@
 <fullyQualifiedTypeName name="Chien"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="Lapin"/>
+<fullyQualifiedTypeName name="fr.afang.animal.Chien"/>
+<fullyQualifiedTypeName name="fr.afang.animal.Chat"/>
+<fullyQualifiedTypeName name="fr.afang.animal.cheval"/>
+<fullyQualifiedTypeName name="fr.afang.animal.vache"/>
+<fullyQualifiedTypeName name="fr.afang.animal.Loup"/>
+<fullyQualifiedTypeName name="fr.afang.animal.Lapin"/>
+<fullyQualifiedTypeName name="fr.afang.oiseaux.Oiseau"/>
+<fullyQualifiedTypeName name="fr.afang.oiseaux.Pigeon"/>
+<fullyQualifiedTypeName name="fr.afang.oiseaux.Autruche"/>
+<fullyQualifiedTypeName name="fr.afang.oiseaux.Canard"/>
+<fullyQualifiedTypeName name="fr.afang.vehicule.Voiture"/>
+<fullyQualifiedTypeName name="fr.afang.vehicule.Camion"/>
 </qualifiedTypeNameHistroy>
