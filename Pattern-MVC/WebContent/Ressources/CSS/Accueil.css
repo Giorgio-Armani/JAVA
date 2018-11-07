@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+.paragraghe-red{
+    text-align:center;
+}
+h1:hover{
+    color: green;
+}
+/*img:hover{
+    width: 300px;
+    height: 300px;
+}
+*/
+#div-accueil{
+    background: darkcyan;
+}
+#div-menu{
+    background:yellowgreen;
+}
+#div-liens{
+    background: blue;
+}
+#div-accueil{
+    font-size: 40px;
+}
+#div-menu{
+    font-size: 30px;
+}
+#div-menu a{
+    display: block;
+}

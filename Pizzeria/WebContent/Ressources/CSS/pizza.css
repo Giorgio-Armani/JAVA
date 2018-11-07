@@ -1,0 +1,61 @@
+img{
+    width: 500px;
+    height: 300px;
+}
+table{
+    font-size: 40px;
+
+}
+img {
+
+    border: 5px solid mediumorchid;
+
+}
+body{
+    background: lightseagreen;
+}
+img:hover{
+    border: 5px dashed yellow;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    border: red 5px double;
+    color: blue;
+    background:wheat;
+
+}
+
+h2{
+    font-size: 30px;
+}
+.produit{
+    display: inline-block;
+    margin: 10px;
+}
+.prix{
+    position: absolute;
+    margin-left: 100px;
+}
+
+.description{
+    text-align: center;
+}
+.len{
+    text-align: center;
+}
+.lev{
+    text-align: center;
+}
+.avo{
+    text-align: center;
+}
+.bon{
+    text-align: center;
+}
+.from{
+    text-align: center;
+}
+.gigot{
+    text-align: center;
+}

@@ -31,12 +31,7 @@
 	</section>
 	<section name="GitCommitMessageComponent">
 		<list key="C:\Users\59013-64-03\eclipse-workspace\JAVA\.git">
-			<item value="false"/>
-			<item value="59013-64-03 &lt;59013-64-03@STA6100901.exchange.ad.afpanet&gt;"/>
-			<item value="add Oiseau"/>
-			<item value="59013-64-03 &lt;59013-64-03@STA6100901.exchange.ad.afpanet&gt;"/>
-			<item value="c56655156291295aa906dce552a8e04577c26668"/>
-			<item value="0"/>
+			<item value="empty"/>
 		</list>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">

@@ -1,0 +1,21 @@
+img{
+    width: 500px;
+    height: 300px;
+}
+h1{
+    background: green;
+}
+h1{
+    color: blue;
+}
+body{
+    background: lightcyan;
+}
+table, th, td {
+    border: 1px solid black;
+}table, th, td {
+     border: 5px solid greenyellow;
+ }
+ table,th,td {
+     font-size: 30px;
+ }

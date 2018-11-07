@@ -1,0 +1,32 @@
+#div-coordonnées{
+
+
+     text-align: center;
+ }
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+
+select, textarea, input[type=text], input[type=date]{
+    display: block;
+    margin: auto;
+    border-color: gray;
+}
+
+fieldset{
+    width: 400px;
+    height: 700px;
+    background-color: aqua;
+}
+#div-coordonnées{
+    width: 400px;
+    margin: auto    ;
+}
+
+.bouton{
+    margin: 10px;
+}
+input.err{
+    border: red 3px solid;
+}
